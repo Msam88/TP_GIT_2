@@ -1,0 +1,1 @@
+A chaque modification avant le commit  enregistrer le git 
