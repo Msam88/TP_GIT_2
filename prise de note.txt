@@ -1,1 +1,12 @@
 A chaque modification avant le commit  enregistrer le git 
+
+Remote -v permet de voir les differents url 
+Origin est le nom du serveur 
+
+Fetch permet de renvoyer un depot localement du github 
+
+La ligne URL est changeable 
+
+Git add permet d;ajouter localement 
+
+le request quand je fais une modification sur une branche et que je soumets a une autre branche (soumettre le travil d'une branche a un autre ) 
